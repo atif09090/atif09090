@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Muhammad Atif Khan
+I’m a Software Engineer specializing in Microsoft .NET technologies. I build scalable, secure, and performant web applications using **C#**, **ASP.NET Core**, and **EF Core**. I’ve worked on healthcare, logistics, LMS, and ERP platforms — and integrated third-party services like **Stripe**, **QuickBooks**, and **SOS Inventory**.
 
-<!--
-**atif09090/atif09090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech I Work With:
+`C#` `ASP.NET Core` `Web API` `EF Core` `SQL Server`  
+`ReactJS` `Angular` `Docker` `Azure` `AWS` `Microservices`  
+`Stripe API` `QuickBooks` `Serilog` `CQRS` `DDD`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on microservices  
+🌱 Learning: Azure Functions & Event-driven Architecture  
+💬 Ask me about: .NET, Clean Architecture, CQRS  
+📫 Reach me: atifkhan.fullstack@gmail.com
