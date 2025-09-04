@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Muhammad Atif Khan
-Full Stack & AI/ML Engineer | Building scalable systems & intelligent solutions with **JavaScript**, **Python**, **TensorFlow**, **Node.js**, and **React**.
+Generative AI Engineer | Building scalable systems & intelligent solutions with **JavaScript**, **Python**, **TensorFlow**, **Node.js**, and **React**.
 
 ### 🛠️ Tech I Work With:
 `Python` `TensorFlow` `PyTorch` `OpenCV` `NLP` `LLMs` `RAG`  
