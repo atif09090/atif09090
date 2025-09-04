@@ -1,41 +1,54 @@
 # 👋 Hi, I’m Muhammad Atif Khan
-I’m a Software Engineer specializing in Microsoft .NET technologies. I build scalable, secure, and performant web applications using **C#**, **ASP.NET Core**, and **EF Core**. I’ve worked on healthcare, logistics, LMS, and ERP platforms — and integrated third-party services like **Stripe**, **QuickBooks**, and **SOS Inventory**.
+Full Stack & AI/ML Engineer | Building scalable systems & intelligent solutions with **JavaScript**, **Python**, **TensorFlow**, **Node.js**, and **React**.
 
 ### 🛠️ Tech I Work With:
-`C#` `ASP.NET Core` `Web API` `EF Core` `SQL Server`  
-`ReactJS` `Angular` `Docker` `Azure` `AWS` `Microservices`  
-`Stripe API` `QuickBooks` `Serilog` `CQRS` `DDD`
+`Python` `TensorFlow` `PyTorch` `OpenCV` `NLP` `LLMs` `RAG`  
+`JavaScript/TypeScript` `Node.js` `Express` `React` `Next.js` `React Native`  
+`MongoDB` `PostgreSQL` `Docker` `Kubernetes` `AWS` `Azure` `CI/CD`  
+`Stripe API` `QuickBooks` `GraphQL` `Microservices` `REST APIs`  
 
 ---
 
-🔭 I’m currently working on microservices  
-🌱 Learning: Azure Functions & Event-driven Architecture  
-💬 Ask me about: .NET, Clean Architecture, CQRS  
-📫 Reach me: atifkhan.fullstack@gmail.com
+🔭 I’m currently working on AI-driven full stack solutions  
+🌱 Learning: RAG Pipelines & Advanced MLOps  
+💬 Ask me about: Full Stack Dev, AI/ML, LLMs  
+📫 Reach me: atifkhan.fullstack@gmail.com  
 
+---
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <!-- Existing stack (replace or mix with your current) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
+  <!-- Core AI/ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+
+  <!-- Full Stack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+
+  <!-- DevOps & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
 
-  <!-- AWS icons from Simple Icons (via shields or direct) -->
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
-  
-  <!-- Azure Services -->
-  <img src="https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cosmos%20DB-003366?style=for-the-badge&logo=azurecosmosdb&logoColor=white" />
-
-  <!-- Others -->
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cognito-FF9900?style=for-the-badge&logo=amazoncognito&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-00BCD4?style=for-the-badge&logo=microgen&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-0080FF?style=for-the-badge&logo=grpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <!-- APIs & Others -->
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-00BCD4?style=for-the-badge&logo=microgen&logoColor=white"/>
 </p>
+
+---
+
+⚡ **Profile Summary**  
+I’m a **Senior Software Engineer** specializing in **Full Stack Development** and **AI/ML Engineering**. I build scalable, intelligent, and high-performance applications using **Python**, **TensorFlow**, **Node.js**, and **React**. I’ve architected solutions across **healthcare, finance, and enterprise platforms**, integrating **advanced AI features**, **third-party APIs**, and **cloud services** like **AWS SageMaker** and **Azure ML**.  
